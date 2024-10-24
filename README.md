@@ -22,8 +22,8 @@ This project uses Python along with OpenCV and MediaPipe to detect hand gestures
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/hand-gesture-minimizer.git
-    cd hand-gesture-minimizer
+    git clone https://github.com/Shaqal7/handTracker.git
+    cd handTracker
     ```
 
 2. Install the required packages:
